@@ -7,7 +7,12 @@ Below I will show you some exemples demonstrating how to use Karf
 
 ### Prerequisites
 
-First, you will need to install all the packages mentioned in requirements.txt file
+First, you will need to install
+```
+python 2.7
+```
+
+next, install all the packages mentioned in requirements.txt file
 ```
 pip install  -r requirements.txt
 ```
